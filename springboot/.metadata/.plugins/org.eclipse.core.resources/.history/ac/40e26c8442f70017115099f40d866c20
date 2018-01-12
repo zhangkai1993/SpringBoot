@@ -1,0 +1,5 @@
+package io.kai.springbootstarter.topic;
+
+public class TopicRepository {
+
+}

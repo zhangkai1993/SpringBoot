@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;io.kai.springbootstarter.topic&apos; to &apos;learning-api-data/src/main/java&apos;&#x0A;- Original project: &apos;learning-api&apos;&#x0A;- Destination element: &apos;learning-api-data/src/main/java&apos;&#x0A;- Original element: &apos;learning-api/src/main/java/io.kai.springbootstarter.topic&apos;" description="Copy package" destination="=learning-api-data/src\/main\/java" element1="/src\/main\/java&lt;io.kai.springbootstarter.topic" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1515722508069" version="1.0"/>
+</session>
